@@ -5,8 +5,8 @@ Follow these steps to run the code from this repository:
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd quick-code
+git clone [<repository-url>](https://github.com/Ram-Ratan/quick-code-assignment.git)
+cd quick-code-assignment
 ```
 
 2. Ensure Node.js is installed
